@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gyeonghun-Park/moive_app_react/static/css/main.f22166bb.chunk.css",
+    "main.js": "/Gyeonghun-Park/moive_app_react/static/js/main.382a7b2f.chunk.js",
+    "main.js.map": "/Gyeonghun-Park/moive_app_react/static/js/main.382a7b2f.chunk.js.map",
+    "runtime-main.js": "/Gyeonghun-Park/moive_app_react/static/js/runtime-main.90b69600.js",
+    "runtime-main.js.map": "/Gyeonghun-Park/moive_app_react/static/js/runtime-main.90b69600.js.map",
+    "static/js/2.fcf50594.chunk.js": "/Gyeonghun-Park/moive_app_react/static/js/2.fcf50594.chunk.js",
+    "static/js/2.fcf50594.chunk.js.map": "/Gyeonghun-Park/moive_app_react/static/js/2.fcf50594.chunk.js.map",
+    "index.html": "/Gyeonghun-Park/moive_app_react/index.html",
+    "precache-manifest.58313ef8061f797b5c18e8e4bf4de527.js": "/Gyeonghun-Park/moive_app_react/precache-manifest.58313ef8061f797b5c18e8e4bf4de527.js",
+    "service-worker.js": "/Gyeonghun-Park/moive_app_react/service-worker.js",
+    "static/css/main.f22166bb.chunk.css.map": "/Gyeonghun-Park/moive_app_react/static/css/main.f22166bb.chunk.css.map",
+    "static/js/2.fcf50594.chunk.js.LICENSE.txt": "/Gyeonghun-Park/moive_app_react/static/js/2.fcf50594.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90b69600.js",
+    "static/js/2.fcf50594.chunk.js",
+    "static/css/main.f22166bb.chunk.css",
+    "static/js/main.382a7b2f.chunk.js"
+  ]
+}
